@@ -25,4 +25,7 @@ Não é necessário nenhum ambiente de desenvolvimento local complexo para visua
 ## Estrutura do Código
 O código-fonte está contido em um único arquivo index.html para simplificar o projeto de estudo. As classes do Tailwind CSS são aplicadas diretamente nos elementos HTML.
 
+## Deploy: https://clone-you-tube-six.vercel.app/
+
 ## Imagens de ícones do site: https://icons8.com.br/icons
+
